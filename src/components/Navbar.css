@@ -1,0 +1,25 @@
+
+.navbar {
+  background-color: red; 
+  color: black; 
+  font-weight: bold; 
+}
+
+
+.navbar a {
+  color: black; 
+  text-decoration: none; 
+  padding: 10px 20px; 
+}
+
+
+.navbar ul {
+  border-top: 150px;
+  display: flex; 
+  list-style: none; 
+}
+
+
+.nav-item {
+  margin-right: 20px; 
+}
